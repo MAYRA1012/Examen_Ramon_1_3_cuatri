@@ -1,0 +1,7 @@
+C:\Users\Josue y Mathias\source\repos\Ramon_Loria_Examen1\Ramon_Loria_Examen1\bin\Debug\Ramon_Loria_Examen1.exe.config
+C:\Users\Josue y Mathias\source\repos\Ramon_Loria_Examen1\Ramon_Loria_Examen1\bin\Debug\Ramon_Loria_Examen1.exe
+C:\Users\Josue y Mathias\source\repos\Ramon_Loria_Examen1\Ramon_Loria_Examen1\bin\Debug\Ramon_Loria_Examen1.pdb
+C:\Users\Josue y Mathias\source\repos\Ramon_Loria_Examen1\Ramon_Loria_Examen1\obj\Debug\Ramon_Loria_Examen1.csproj.AssemblyReference.cache
+C:\Users\Josue y Mathias\source\repos\Ramon_Loria_Examen1\Ramon_Loria_Examen1\obj\Debug\Ramon_Loria_Examen1.csproj.CoreCompileInputs.cache
+C:\Users\Josue y Mathias\source\repos\Ramon_Loria_Examen1\Ramon_Loria_Examen1\obj\Debug\Ramon_Loria_Examen1.exe
+C:\Users\Josue y Mathias\source\repos\Ramon_Loria_Examen1\Ramon_Loria_Examen1\obj\Debug\Ramon_Loria_Examen1.pdb
